@@ -4,7 +4,7 @@
 
 ## Preview on desktop
 
-![alt text](design/desktop.png) ![alt text](design/tablet.png)
+![alt text](design/desktop.png)
 
 ## Preview on Ipad
 
