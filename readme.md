@@ -1,5 +1,7 @@
 # Nike website by using Tailwind CSS
 
+**Live demo** [click here](https://nike-website-front.netlify.app)
+
 ## Preview on desktop
 
 ![alt text](design/desktop.png)
@@ -14,4 +16,6 @@
 
 ### Used tools
 
-This project is implemented with Tailwind Css.
+-  HTML
+-  Tailwind
+-  CSS
